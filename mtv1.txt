@@ -8,6 +8,8 @@
 {"key":"mtv_pc_奥特影视","name":"爬虫┃奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_两个磁力","name":"爬虫┃两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_快看影视","name":"爬虫┃快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTV数据包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
+{"key":"mtv_pc_三亿影视","name":"爬虫┃三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTV数据包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 {"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_盘搜资源","name":"搜索┃盘搜资源","type":3,"api":"csp_PanSou"        ,"searchable":1,"switchable": 0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a"},
 {"key":"mtv_xp_云搜资源","name":"搜索┃云搜资源","type":3,"api":"csp_UpYun"         ,"searchable":1,"switchable": 0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a"},
