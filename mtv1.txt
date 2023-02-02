@@ -3,12 +3,11 @@
 //数据接口
 
 "sites": [
-
 {"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_盘搜资源","name":"搜索┃盘搜资源","type":3,"api":"csp_PanSou"        ,"searchable":1,"switchable": 0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a"},
 {"key":"mtv_xp_云搜资源","name":"搜索┃云搜资源","type":3,"api":"csp_UpYun"         ,"searchable":1,"switchable": 0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a"},
 {"key":"mtv_xp_找搜资源","name":"搜索┃找搜资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"switchable": 0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a"},
-{"key":"push_agent"     ,"name":"推送┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"}
+{"key":"push_agent"     ,"name":"推送┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"}],
 
 
 //解析接口
