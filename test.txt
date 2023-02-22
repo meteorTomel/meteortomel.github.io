@@ -33,13 +33,11 @@
 {"key":"XBPQ_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影视.json","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
 
 {"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
-{"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://我不是.肥猫.love:63/JS/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
 {"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
 
 {"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
-{"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_达龟影视","name":"切片┃达龟影视","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"}],
 
