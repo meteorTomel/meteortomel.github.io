@@ -38,7 +38,6 @@
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
 
 {"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
-{"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"mtv_xp_达龟影视","name":"切片┃达龟影视","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"}],
 
 //解析接口
