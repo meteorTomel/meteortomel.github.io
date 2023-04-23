@@ -1,13 +1,3 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Sun, 23 Apr 2023 14:44:59 GMT
-Content-Type: application/octet-stream
-Content-Length: 31612
-Last-Modified: Sun, 23 Apr 2023 14:26:10 GMT
-Connection: keep-alive
-ETag: "64454002-7b7c"
-Accept-Ranges: bytes
-
 {
 "sites":[
 
