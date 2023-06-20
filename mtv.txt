@@ -67,7 +67,7 @@
 
 {"key":"csp_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.cn"},
 
-{"key": "PPY","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://xhww.fun:63/小米/源/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
+{"key": "PPY","name": "🦆┃鸭鸭┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext":"http://我不是.肥猫.love:63/json/云云.json","jar":"http://xhww.fun:63/小米/小暴脾气4.jar;md5;4bb3f45530fff959b029e2af6dec6c21"},
 
 {"key":"csp_555","name":"5️⃣️┃555┃影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com/"},
 
