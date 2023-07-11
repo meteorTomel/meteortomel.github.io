@@ -44,16 +44,6 @@
       "searchable": 1,
       "ext": "https://hk-api-cf.yqk5659.com"
     },
-
-    {
-      "key": "csp_Kunyu77",
-      "name": "🌈┃七七┃影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "csp_DiDuan",
       "name": "⏮️┃低端┃影视",
