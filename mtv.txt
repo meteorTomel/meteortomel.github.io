@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐼┃豆瓣┃免费接口",
+      "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
@@ -46,16 +46,6 @@
     },
 
     {
-						 
-									   
-				
-							 
-					  
-					  
-					   
-					 
-	  
-	 
       "key": "csp_Kunyu77",
       "name": "🌈┃七七┃影视",
       "type": 3,
@@ -65,31 +55,10 @@
       "filterable": 1
     },
     {
-						 
-									   
-				
-						 
-					  
-					   
-					  
-																 
-	  
-	 
-						 
-									   
-				
-						 
-					  
-					   
-					  
-																																																 
-	  
-	 
       "key": "csp_DiDuan",
       "name": "⏮️┃低端┃影视",
       "type": 3,
       "api": "csp_Ddrk",
-										
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -200,22 +169,6 @@
       "ext": "http://我不是.肥猫.love:63/json/乐猪.json"
     },
     {
-									
-										  
-				
-						
-					  
-					   
-					  
-			  
-														   
-																																																				 
-																														  
-																																		   
-													
-	   
-	  
-	 
       "key": "csp_Lgyy",
       "name": "🌀┃蓝光┃影视",
       "type": 3,
@@ -236,16 +189,6 @@
       "playerType": 1
     },
     {
-					   
-										  
-				
-						 
-					  
-					   
-					  
-									   
-	  
-	 
       "key": "csp_Auete",
       "name": "🏝┃Aue ┃影视",
       "type": 3,
@@ -348,15 +291,6 @@
       "filterable": 1
     },
     {
-					   
-									   
-				
-					   
-					  
-					   
-					 
-	  
-	 
       "key": "csp_Anime1",
       "name": "💀┃日本┃动漫",
       "type": 3,
