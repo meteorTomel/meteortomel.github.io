@@ -317,7 +317,7 @@
   "lives":[{"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=https://meteortomel.github.io/live1.txt"]}]
+    "urls":["proxy://do=live&type=txt&ext=https://meteortomel.github.io/lives.txt"]}]
     }],
   "parses": [
     {
