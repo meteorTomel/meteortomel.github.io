@@ -5,7 +5,7 @@
       "name": "🐼┃豆瓣┃免费接口",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
     },
     {
       "key": "直播转点播",
@@ -29,10 +29,33 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
+      "ext": "https://api123.adys.app/xgapp.php/v3/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-
-
+    {
+      "key": "荐片",
+      "name": "🎬┃豆瓣┃荐片",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yyds",
+      "name": "🔥┃杳音┃影院",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://alist.xn--z7x900a.love:63/yyds.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -43,6 +66,18 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://hk-api-cf.yqk5659.com"
+    },
+
+    {
+      "key": "七七",
+      "name": "🌈┃七七┃影视",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "playerType": "2",
+      "ext": "http://alist.xn--z7x900a.love:63/七七.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_DiDuan",
@@ -99,7 +134,7 @@
     },
     {
       "key": "飞速",
-      "name": "🚄┃飞速┃影视",
+      "name": "🚄┃影探┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 0,
@@ -187,6 +222,13 @@
     "4K电影",
     "4K电视剧",
       ]
+    },
+    {
+      "key": "布蕾",
+      "name": "🌞┃布蕾┃影视",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/布蕾.jsd"
     },
     {
       "key": "狐狸",
@@ -297,28 +339,11 @@
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     }
   ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
+ "lives":[{"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=https://meteortomel.github.io/lives.txt"]}]
+    }],
   "parses": [
     {
       "name": "解析聚合",
@@ -665,7 +690,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae"
 }
