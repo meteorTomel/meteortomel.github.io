@@ -110,7 +110,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://czzy.art/"
+      "ext": "https://cz01.me/"
     },
     {
       "key": "双十",
@@ -169,11 +169,34 @@
       "filterable": 1
     },
     {
-    "key": "肥猫",
-    "name": "😸┃肥猫┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
+      "key": "alist",
+      "name": "🍰┃小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://alist.xn--z7x900a.love:63/alist.json"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蘑菇",
+      "name": "🍄┃蘑菇┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
     },
     {
         "key": "飞速",
