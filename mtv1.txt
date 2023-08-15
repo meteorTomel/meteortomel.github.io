@@ -1,4 +1,4 @@
-{"spider":"./hccx/HeChengChaXiu.jar",
+{"spider":"http://rihou.vip:88/hccx/HeChengChaXiu.jar",
 
 "wallpaper":"https://yun.chuqiuyu.tk",
 
