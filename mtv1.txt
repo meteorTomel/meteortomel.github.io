@@ -1,28 +1,28 @@
-{"spider":"http://rihou.vip:88/hccx/HeChengChaXiu.jar",
+{"spider":"http://rihou.vip:88/hccx/hccx/HeChengChaXiu.jar",
 
 "wallpaper":"https://yun.chuqiuyu.tk",
 
-"lives":[{"name":"live","type":0,"url":"./hccx/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+"lives":[{"name":"live","type":0,"url":"http://rihou.vip:88/hccx/hccx/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "sites":[
 
-{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播 QQ交流群:532127696","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
+{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播 QQ交流群:532127696","type":3,"api":"http://rihou.vip:88/hccx/hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/Doubanrebo.js"},
 
 {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"csp_xBPQ_奇优","name":"🅱️奇优影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/奇优影视.json"},
+{"key":"csp_xBPQ_奇优","name":"🅱️奇优影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/奇优影视.json"},
 
-{"key":"csp_乐猪","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/乐猪影视.json"},
+{"key":"csp_乐猪","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/乐猪影视.json"},
 
-{"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/农民影视.json"},
+{"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/农民影视.json"},
 
-{"key":"csp_花猫","name":"🅱️花猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/花猫影视.json"},
+{"key":"csp_花猫","name":"🅱️花猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/花猫影视.json"},
 
-{"key":"csp_低端","name":"🅱️低端影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/低端影视.json"},
+{"key":"csp_低端","name":"🅱️低端影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/低端影视.json"},
 
-{"key":"csp_兔瓜","name":"🅱️兔瓜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/兔兔瓜.json"},
+{"key":"csp_兔瓜","name":"🅱️兔瓜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/兔兔瓜.json"},
 
-{"key":"Wogg","name":"🅱️玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/玩偶哥哥.json"},
+{"key":"Wogg","name":"🅱️玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/玩偶哥哥.json"},
 
 {"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me/"},
 
@@ -32,73 +32,73 @@
 
 //{"key":"酷影","name":"🅱️酷影蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.realdou.cn/api.php/app/"},
 
-{"key":"csp_徕米","name":"🅱️徕米影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/徕米影视.json"},
+{"key":"csp_徕米","name":"🅱️徕米影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/徕米影视.json"},
 
-{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/348影视.json"},
+{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/348影视.json"},
 
-{"key":"csp_TVB","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/TVB云播.json"},
+{"key":"csp_TVB","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/TVB云播.json"},
 
-//{"key":"csp_Free","name":"🅱️Free影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/Free影视.json"},
+//{"key":"csp_Free","name":"🅱️Free影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/Free影视.json"},
 
-{"key":"csp_101","name":"🅱️摇玲影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/101影视.json"},
+{"key":"csp_101","name":"🅱️摇玲影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/101影视.json"},
 
-{"key":"csp_789","name":"🅱️芭蕉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/789影视.json"},
+{"key":"csp_789","name":"🅱️芭蕉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/789影视.json"},
 
-{"key":"csp_007","name":"🅱️凌漆影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/007影视.json"},
+{"key":"csp_007","name":"🅱️凌漆影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/007影视.json"},
 
-{"key":"csp_速映","name":"🅱️速映影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/速映影视.json"},
+{"key":"csp_速映","name":"🅱️速映影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/速映影视.json"},
 
-{"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/土豪影视.json"},
+{"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/土豪影视.json"},
 
-{"key":"csp_345","name":"🅱️看片影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/345看片.json"},
+{"key":"csp_345","name":"🅱️看片影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/345看片.json"},
 
-{"key":"csp_91","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
+{"key":"csp_91","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/91影视.json"},
 
-{"key":"csp_七年","name":"🅱️七年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七年影视.json"},
+{"key":"csp_七年","name":"🅱️七年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/七年影视.json"},
 
-{"key":"csp_酷茶","name":"🅱️酷茶影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/酷茶影视.json"},
+{"key":"csp_酷茶","name":"🅱️酷茶影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/酷茶影视.json"},
 
-{"key":"csp_真不卡","name":"🅱️不卡影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/真不卡影视.json"},
+{"key":"csp_真不卡","name":"🅱️不卡影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/真不卡影视.json"},
 
-{"key":"csp_xBPQ_66","name":"🅱️鎏琉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/66影视.json"},
+{"key":"csp_xBPQ_66","name":"🅱️鎏琉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/66影视.json"},
 
-{"key":"csp_明帝","name":"🅱️明帝影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/明帝影视.json"},
+{"key":"csp_明帝","name":"🅱️明帝影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/明帝影视.json"},
 
-{"key": "csp_蛋蛋","name": "🅱️蛋蛋影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/蛋蛋影视.json"},
+{"key": "csp_蛋蛋","name": "🅱️蛋蛋影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/蛋蛋影视.json"},
 
-{"key": "csp_黑狐","name": "🅱️黑狐影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/黑狐影视.json"},
+{"key": "csp_黑狐","name": "🅱️黑狐影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/黑狐影视.json"},
 
-{"key": "csp_耐看","name": "🅱️耐看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/耐看影视.json"},
+{"key": "csp_耐看","name": "🅱️耐看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/耐看影视.json"},
 
-{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
+{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/歪片星球.json"},
 
-{"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/臭蛋影视.json"},
+{"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/臭蛋影视.json"},
 
-{"key":"csp_苹果","name":"🅱️苹果影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/苹果影视.json"},
+{"key":"csp_苹果","name":"🅱️苹果影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/苹果影视.json"},
 
-{"key":"csp_米爱","name":"🅱️米爱影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/米爱影视.json"},
+{"key":"csp_米爱","name":"🅱️米爱影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/米爱影视.json"},
 
-{"key":"csp_熊猫","name":"🅱️熊猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/熊猫影视.json"},
+{"key":"csp_熊猫","name":"🅱️熊猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/熊猫影视.json"},
 
-{"key":"csp_灰太狼","name":"🅱️灰狼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/灰太狼影视.json"},
+{"key":"csp_灰太狼","name":"🅱️灰狼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/灰太狼影视.json"},
 
-{"key":"csp_非凡","name":"🅱️非凡资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/非凡资源网.json"},
+{"key":"csp_非凡","name":"🅱️非凡资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/非凡资源网.json"},
 
-{"key":"csp_量子","name":"🅱️量子资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/量子资源网.json"},
+{"key":"csp_量子","name":"🅱️量子资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/量子资源网.json"},
 
-{"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./hccx/Api.js","ext":"./hccx/搜狗影视.js"},
+{"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"http://rihou.vip:88/hccx/hccx/Api.js","ext":"http://rihou.vip:88/hccx/hccx/搜狗影视.js"},
 
 {"key":"荐片","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"4KHD","name":"🅱️4khd磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/4khdr磁力.json"},
+{"key":"4KHD","name":"🅱️4khd磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/4khdr磁力.json"},
 
-{"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
+{"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/音范磁力.json"},
 
-{"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
+{"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/蚂蚁磁力.json"},
 
 {"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-//{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/MP4磁力.json"},
+//{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/MP4磁力.json"},
 
 //{"key":"seedhub","name":"🅱️seed磁力|T追剧","type":3,"api":"csp_Seedhub","searchable":1,"quickSearch":1,"filterable":0},
 
@@ -112,45 +112,45 @@
 
 {"key":"Zhaozy","name":"🔍阿里|找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
 
-{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./hccx/央视大全.json"},
+{"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"http://rihou.vip:88/hccx/hccx/央视大全.json"},
 
-{"key":"py_cctv_少儿","name":"📺央视｜少儿","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/py_央视少儿.py"},
+{"key":"py_cctv_少儿","name":"📺央视｜少儿","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/py_央视少儿.py"},
 
-{"key":"央视经典","name":"📺央视｜经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩经典.json"},
+{"key":"央视经典","name":"📺央视｜经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩经典.json"},
 
-{"key":"py_cctv_企鹅","name":"📺体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./hccx/py_企鹅体育.py"},
+{"key":"py_cctv_企鹅","name":"📺体育｜直播","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/py_企鹅体育.py"},
 
-{"key":"mtv_xp_动漫巴士","name":"🐼动漫丨巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/动漫巴士.json"},
+{"key":"mtv_xp_动漫巴士","name":"🐼动漫丨巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/动漫巴士.json"},
 
-{"key":"mtv_xp_维奇动漫","name":"🐼维奇丨动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/维奇动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"🐼维奇丨动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/维奇动漫.json"},
 
 {"key":"csp_Yj1211","name":"🎧综合｜直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"哔哩音乐","name":"🎧哔哩｜音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩音乐.json"},
+{"key":"哔哩音乐","name":"🎧哔哩｜音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩音乐.json"},
 
-{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔科学.json"},
+{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/小灯塔科学.json"},
 
-{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔地理.json"},
+{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/小灯塔地理.json"},
 
-{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔百科.json"},
+{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/小灯塔百科.json"},
 
-{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/小灯塔国学.json"},
+{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/小灯塔国学.json"},
 
-{"key":"幼儿教育","name":"🅱幼小｜衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩幼小.json"},
+{"key":"幼儿教育","name":"🅱幼小｜衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩幼小.json"},
 
-{"key":"哔哩小学","name":"🅱小学｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩小学.json"},
+{"key":"哔哩小学","name":"🅱小学｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩小学.json"},
 
-{"key":"哔哩初中","name":"🅱初中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩初中.json"},
+{"key":"哔哩初中","name":"🅱初中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩初中.json"},
 
-{"key":"哔哩高中","name":"🅱高中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩高中.json"},
+{"key":"哔哩高中","name":"🅱高中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩高中.json"},
 
-{"key":"兴趣健身","name":"🅱兴趣｜健身","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩健身.json"},
+{"key":"兴趣健身","name":"🅱兴趣｜健身","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩健身.json"},
 
-{"key":"相声小品","name":"🅱相声｜小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩相声.json"},
+{"key":"相声小品","name":"🅱相声｜小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩相声.json"},
 
-{"key":"天下美食","name":"🅱天下｜美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩美食.json"},
+{"key":"天下美食","name":"🅱天下｜美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩美食.json"},
 
-{"key":"戏曲杂苑","name":"🅱戏曲｜杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./hccx/哔哩戏曲.json"}],
+{"key":"戏曲杂苑","name":"🅱戏曲｜杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/hccx/哔哩戏曲.json"}],
 
 "parses":[
 
