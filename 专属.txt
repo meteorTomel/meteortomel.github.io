@@ -19,15 +19,18 @@
             "filterable": 1
         },
         {
-            "key": "360_spider",
-            "name": "🥎360影视官方",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
+			"key": "新片热播",
+			"name": "🔷┃新片┃热播",
+			"type": 1,
+			"api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": [
+				"连续剧",
+				"动漫"
+			]
+		},
         {
             "key": "drpy_js_酷云七七1",
             "name": "🍎备份源一",
@@ -1397,6 +1400,11 @@
             "type": 2,
             "url": "Parallel"
         },
+		{
+			"name": "自动解析",
+			"type": 1,
+			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+		},
         {
             "name": "Json轮询",
             "type": 2,
