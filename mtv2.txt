@@ -30,15 +30,6 @@
 			"ext": "https://bitbucket.org/xduo/json/raw/master/zb.json"
 		},
 		{
-			"key": "MV_vod",
-			"name": "🎹┃MTV┃合集",
-			"type": 1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "js_ikanbot2",
 			"name": "🤖┃爱看┃机器",
 			"type": 3,
