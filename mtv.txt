@@ -777,51 +777,8 @@
 			"ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
 		}
 	],
-	"lives": [
-		{
-			"name": "影视",
-			"url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
-			"type": 0,
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
-					]
-				}
-			]
-		}
-	],
-	"rules": [
-		{
-			"name": "量子",
-			"hosts": [
-				"vip.lz",
-				"hd.lz"
-			],
-			"rule": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-			]
-		},
-		{
-			"name": "非凡",
-			"hosts": [
-				"vip.ffzy",
-				"hd.ffzy"
-			],
-			"rule": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-			]
-		}
-	],
+	"lives": [],
+	"rules": [],
 	"parses": [
 		{
 			"name": "解析聚合",
