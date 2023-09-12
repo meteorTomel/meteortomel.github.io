@@ -805,7 +805,7 @@
 				"vip.lz",
 				"hd.lz"
 			],
-			"regex": [
+			"rule": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 			]
@@ -816,27 +816,9 @@
 				"vip.ffzy",
 				"hd.ffzy"
 			],
-			"regex": [
+			"rule": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-			]
-		},
-		{
-			"name": "火山",
-			"hosts": [
-				"huoshan.com"
-			],
-			"regex": [
-				"item_id="
-			]
-		},
-		{
-			"name": "抖音",
-			"hosts": [
-				"douyin.com"
-			],
-			"regex": [
-				"is_play_url="
 			]
 		}
 	],
