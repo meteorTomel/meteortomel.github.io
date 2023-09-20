@@ -36,15 +36,12 @@
       "ext":"http://alist.xn--z7x900a.love:63/alist.json"
     },
     {
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-      "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+			"key": "荐片",
+			"name": "🎬┃荐片┃影视",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+		},
     {
       "key": "磁力熊",
       "name": "🐻┃熊熊┃磁力",
@@ -68,7 +65,43 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
-    },  
+    }, 
+{
+			"key": "熊猫",
+			"name": "🐼｜熊猫｜影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"简介": "
+				&&
+
+				",
+				"主演": "主演：class=\"module-info-item-title\">&&",
+				"导演": "导演：&&",
+				"影片年代": "年份：&&",
+				"影片地区": "地区：&&",
+				"影片类型": "类型：&&",
+				"影片状态": "更新：&&",
+				"数组": "",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"副标题": "
+				&&
+				",
+				"线路数组": "data-dropdown-value=&&[排序:索尼>快看]",
+				"线路标题": "&&[替换:>>🐼共]+集",
+				"播放数组": "
+				&&
+				",
+				"播放标题": "&&",
+				"播放列表": "",
+				"播放链接": "href=\"&&\"",
+				"分类": "电影&电视剧&综艺&动漫",
+				"分类值": "52&69&77&75",
+				"分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+			}
+		}
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -99,12 +132,6 @@
       "filterable": 0
     },
     {
-        "key":"爱看Bot",
-        "name":"🏇┃爱看┃Bot",
-        "type":3,
-        "api":"http://alist.xn--z7x900a.love:63/Bot.js"
-    },
-    {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
@@ -113,7 +140,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://cz01.me/"
+      "ext": "https://cz01.cc/"
     },
     {
       "key": "csp_AppMr",
@@ -126,11 +153,11 @@
     },
     {
       "key": "奇奇",
-      "name": "🐭┃奇奇┃影视",
+      "name": "🐭┃迷迷┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
-      "ext": "https://ttsp.live/api.php/app/",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -163,29 +190,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+        "ext": "vip.lyyytv.cn"
     },  
-    {
-      "key": "辣辣",
-      "name": "🌶️┃辣辣┃影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
-    },
-    {
-      "key": "蘑菇",
-      "name": "🍄┃蘑菇┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
-    },
     {
       "key": "csp_Lib",
       "name": "💫┃Lib  ┃影视",
@@ -196,15 +202,6 @@
       "filterable": 0,
       "playerType": 2,
       "ext": "https://www.libvio.fun/"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🏝┃Aue ┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "鸭鸭",
@@ -278,16 +275,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_XBiuCOKEMV",
-      "name": "🍬┃可乐┃影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
     },
     {
       "key": "ext_live_protocol",
