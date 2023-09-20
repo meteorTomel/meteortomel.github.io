@@ -101,7 +101,7 @@
 				"分类值": "52&69&77&75",
 				"分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
 			}
-		}
+		},
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
