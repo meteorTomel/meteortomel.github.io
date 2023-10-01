@@ -50,7 +50,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-		}, {
+		},{
+			"key": "js_star",
+			"name": "🌟‍┃星辰┃影视",
+			"type": 3,
+			"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
+		},{
 			"key": "csp_aidi",
 			"name": "🤟┃爱迪┃高清",
 			"type": 3,
@@ -60,6 +69,12 @@
 			"filterable": 1,
 			"ext": "https://aidiapp.xyz/xgapp.php/v2/"
 		}, {
+			"key": "apv2_瑞丰",
+			"name": "⛄┃瑞丰┃影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "http://www.miniku.cc/xgapp.php/v2/"
+		}, {
 			"key": "js_nangua",
 			"name": "🎃┃南瓜┃影视",
 			"type": 3,
@@ -68,15 +83,24 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
-		}, {
-			"key": "csp_lianyu",
-			"name": "🌧┃恋雨┃影视",
+		},{
+			"key": "csp_beijihu",
+			"name": "🎪┃极狐┃影视",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "http://mp4.ghlyys.com/api.php/app/"
+			"filterable": 1,
+			"ext": "https://www.kuin.one/api.php/app/"
+		},{
+			"key": "csp_SNzy",
+			"name": "🐉┃索尼┃高清",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 		}, {
 			"key": "cjzy_暴风资源",
 			"name": "🎈┃暴风┃影视",
@@ -139,15 +163,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
-		}, {
-			"key": "csp_御龙",
-			"name": "🐉┃御龙┃高清",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
 		}, {
 			"key": "csp_奇优",
 			"name": "🧼┃奇优┃影院",
@@ -841,5 +856,5 @@
 	],
 	"ads": ["wan.51img1.com", "iqiyi.hbuioo.com", "vip.ffzyad.com", "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
 	"wallpaper": "https://jianbian.chuqiuyu.tk",
-	"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
+	"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
 }
