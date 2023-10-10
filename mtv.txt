@@ -83,6 +83,21 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
+		}, {
+			"key": "蜗牛有广告",
+			"name": "🐌┃蜗牛┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
+		}, {
+			"key": "csp_玉米",
+			"name": "🌽┃玉米┃资源",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://yumi.ghlyys.com/api.php/app/"
 		},{
 			"key": "csp_beijihu",
 			"name": "🎪┃极狐┃影视",
@@ -115,18 +130,17 @@
 			"playerType": 1,
 			"api": "csp_XYQHiker",
 			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-			"ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/港口.json"
 		}, {
-			"key": "js_秒看",
-			"name": "⚡️‍┃秒看┃影视",
+			"key": "csp_XBPQ_haoxi",
+			"name": "⚡️┃好戏┃影视",
 			"type": 3,
-			"playerType": 2,
-			"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ytcms.js"
-		}, {
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/好戏.json"
+		},  {
 			"key": "js_荐片",
 			"name": "⏳┃荐片┃影视",
 			"type": 3,
@@ -153,7 +167,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/free.json"
 		}, {
 			"key": "csp_茉莉",
 			"name": "🌼┃茉莉┃影视",
@@ -162,7 +176,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/moli.json"
 		}, {
 			"key": "csp_奇优",
 			"name": "🧼┃奇优┃影院",
@@ -171,7 +185,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/奇优影院.json"
 		}, {
 			"key": "csp_非凡资源",
 			"name": "🥗┃非凡┃资源",
@@ -210,15 +224,15 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
-		}, {
-			"key": "js_酷客",
-			"name": "😎┃酷客┃影院",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+		},  {
+			"key": "秒看资源",
+			"name": "😎┃秒看┃资源",
+			"type": 1,
+			"api": "https://www.xy1080.net/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/莱米.js"
+			"categories": ["综艺", "电视剧", "电影", "动漫"]
+																  
 		}, {
 			"key": "js_bzys",
 			"name": "🌋┃B站┃影视",
@@ -236,7 +250,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/剧白白.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/剧白白.json"
 		}, {
 			"key": "XBPQ_石榴",
 			"name": "Ⓜ┃石榴┃影视",
@@ -245,7 +259,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/shiliu.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/shiliu.json"
 		}, {
 			"key": "js_czsapp",
 			"name": "🏭️┃厂长┃资源",
@@ -341,7 +355,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/胖虎.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/胖虎.json"
 		}, {
 			"key": "js_小狗影院",
 			"name": "🐶┃小狗┃影院",
@@ -429,7 +443,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/caigou.js"
 		}, {
 			"key": "zy_新浪",
 			"name": "🏄🏻┃新浪┃资源",
@@ -484,7 +498,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/骚火电影.json"
 		}, {
 			"key": "csp_Cokemv",
 			"name": "🎀┃可乐┃影视",
@@ -518,14 +532,14 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, {
-			"key": "js路漫漫",
+			"key": "js58",
 			"name": "👩‍🎨┃漫漫┃动漫",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/路漫漫.js"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/js/58动漫.js"
 		}, {
 			"key": "去看动漫",
 			"name": "🎊┃去看┃动漫",
@@ -561,16 +575,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/动漫巴士.json"
-		}, {
-			"key": "py_qie",
-			"name": "🏀┃企鹅┃体育",
-			"type": 3,
-			"api": "py_qie",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/qie.py"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/动漫巴士.json"
 		},{
 			"key": "网易CC",
 			"name": "🐠┃网易┃[CC]",
@@ -579,7 +584,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/网易CC.json"
+			"https://agit.ai/leevi/duo/raw/branch/master/json/网易CC.json"
 		}, {
 			"key": "csp_dadagui",
 			"name": "🐢┃达龟┃影视",
@@ -588,7 +593,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/达达龟.json"
 		}, {
 			"key": "csp_金眼",
 			"name": "🌟┃金眼┃影视",
@@ -597,7 +602,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/金眼影视.json"
 		}
 	],
 	"lives": [],
@@ -622,7 +627,7 @@
 		}, {
 			"name": "手动解析",
 			"type": 1,
-			"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+			"url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
 		}, {
 			"name": "1号线",
 			"type": 0,
