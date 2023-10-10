@@ -584,7 +584,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"https://agit.ai/leevi/duo/raw/branch/master/json/网易CC.json"
+			"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/网易CC.json"
 		}, {
 			"key": "csp_dadagui",
 			"name": "🐢┃达龟┃影视",
