@@ -106,7 +106,7 @@
 				"播放链接": "href=\"&&\"",
 				"分类": "电影&电视剧&综艺&动漫",
 				"分类值": "52&69&77&75",
-				"分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+				"分类url": "https://xmvod520.com/index.php/vod/type/id/{cateId}.html"
 			}
 		}, {
 			"key": "蜗牛弹幕",
