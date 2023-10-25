@@ -714,10 +714,6 @@
 			"type": 2,
 			"url": "Parallel"
 		}, {
-			"name": "小鱼解析",
-			"type": 1,
-			"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
-		}, {
 			"name": "叉车解析",
 			"type": 1,
 			"url": "http://cache.json.icu/1804857380.php?url="
