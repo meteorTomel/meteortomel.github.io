@@ -1306,5 +1306,5 @@
 		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
 	],
 	"wallpaper": "https://jianbian.chuqiuyu.tk",
-	"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
+	"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar"
 }
