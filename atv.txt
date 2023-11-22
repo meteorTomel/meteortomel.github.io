@@ -1,7 +1,7 @@
 {
 	"sites": [{
 			"key": "js豆瓣",
-			"name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『多多影音』提供🍥",
+			"name": "🍥┃豆瓣┃🍥",
 			"type": 3,
 			"api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
 			"searchable": 0,
@@ -10,7 +10,7 @@
 			"ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
 		}, {
 			"key": "js豆瓣备用",
-			"name": "🍥┃豆瓣备用┃付费获取接口都是骗人的,勿信视频中广告🍥",
+			"name": "🍥┃豆瓣备用┃🍥",
 			"type": 3,
 			"api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/doubanbf.js",
 			"searchable": 1,
