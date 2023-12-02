@@ -1459,7 +1459,7 @@
 					"name": "live",
 					"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlZXZpL2R1by9yYXcvYnJhbmNoL21hc3Rlci92LnR4dA=="
+						"proxy://do=live&type=txt&ext=aHR0cDovL2xpdmUuY29vbHR2LnRvcC90di5waHB0aGlzIGlzIGEgZXhhbXBsZQ=="
 					]
 				}
 			]
