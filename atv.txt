@@ -1448,12 +1448,6 @@
 		}
 	],
 	"lives": [{
-			"name": "影视",
-			"url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt",
-			"type": 0,
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		}, {
 			"group": "redirect",
 			"channels": [{
 					"name": "live",
