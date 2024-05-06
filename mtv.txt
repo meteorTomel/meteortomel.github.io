@@ -1,9 +1,9 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "豆豆",
       "name": "🍥豆瓣",
       "type": 3,
       "api": "csp_DouDou",
@@ -18,16 +18,6 @@
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0
     },
     {
@@ -52,7 +42,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃无广",
+      "name": "🍎苹果┃不卡",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -61,7 +51,7 @@
     },
     {
       "key": "白嫖",
-      "name": "👻白飘┃无广",
+      "name": "👻白飘┃不卡",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -71,8 +61,18 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "视觉",
-      "name": "👓视觉┃直连",
+      "name": "👓视觉┃多线",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -83,15 +83,15 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃无广",
+      "name": "📔厂长┃不卡",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "七七",
@@ -105,7 +105,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜┃多线",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -115,15 +115,15 @@
       "changeable": 1
     },
     {
-      "key": "农民",
-      "name": "🌾农民┃秒播",
+      "key": "糯米",
+      "name": "🍙糯米┃秒播",
       "type": 3,
       "api": "csp_Nmys",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
     {
       "key": "低端",
@@ -137,7 +137,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "name": "🍓毛驴┃多线",
       "type": 3,
       "api": "csp_MLYS",
       "timeout": 15,
@@ -148,7 +148,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米┃App",
+      "name": "👀萌米┃多线",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -173,11 +173,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/"
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "Lib",
-      "name": "🌟立播┃直连",
+      "name": "🌟立播┃无广",
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -188,7 +188,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "name": "🏝奥特┃无广",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -199,14 +199,14 @@
     },
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "🐭贱贱┃P2P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
       "key": "新6V",
@@ -219,45 +219,22 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "csp_Ying",
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Ying",
       "name": "💮樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "🎀异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "夸搜",
-      "name": "🐺夸搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
-      }
     },
     {
       "key": "Nbys",
@@ -333,6 +310,12 @@
   ],
   "rules": [],
   "lives": [
+    {
+      "name": "多线ITV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+      "playerType": 1
+    },
     {
       "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
