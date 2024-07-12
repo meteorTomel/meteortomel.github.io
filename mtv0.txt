@@ -4,13 +4,6 @@
   "logo": "http://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "🐼┃公众号┃肥猫宝贝",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "豆瓣",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
@@ -130,17 +123,6 @@
       "playerType": 2,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "比特",
@@ -319,19 +301,6 @@
       "ext": "http://js.xn--z7x900a.com/js/alist.json"
     },
     {
-      "key": "csp_BookTing",
-      "name": "📚┃听书┃音频",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_BookTing",
-      "searchable": 0,
-      "ext": "https://m.ting275.com",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-    {
       "key": "csp_YouShengBook",
       "name": "📚┃有声┃小说",
       "type": 3,
@@ -477,20 +446,6 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
     },
     {
-      "key": "csp_Pansou",
-      "name": "🚢┃盘搜┃网盘",
-      "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_PanSearch",
-      "name": "🚃┃盘搜┃网盘",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
       "type": 3,
@@ -567,15 +522,6 @@
         "ratio": 1.597
       },
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "parses": [
