@@ -20,6 +20,17 @@
       "quickSearch": 0,
       "changeable": 0
     },
+  {
+      "key": "可可",
+      "name": " 😝┃可可┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+	  "jar": "https://like.xn--z7x900a.com/jar/PandaQ240711.jar;md5;ba8110069297293eb2a9bdd190cff284"
+    },
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
