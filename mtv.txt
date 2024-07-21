@@ -3,7 +3,7 @@
 
 	"sites": [{
 			"key": "豆豆",
-			"name": "🍥豆瓣",
+			"name": "🍥豆瓣（7.22更新）",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
