@@ -122,17 +122,7 @@
 			"playerType": "1",
 			"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-		}, {
-			"key": "可可",
-			"name": "👻可可┃多线",
-			"type": 3,
-			"api": "csp_Kekys",
-			"timeout": 15,
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		}, {
+		},{
 			"key": "热播",
 			"name": "📺热播┃多线",
 			"type": 3,
@@ -174,6 +164,9 @@
 			"key": "csp_Nongm",
 			"name": "🌾️┃农民┃影视",
 			"type": 3,
+			"playerType": "2",
+			"searchable": 1,
+			"filterable": 1,
 			"jar": "http://happy.xn--z7x900a.live/jar/PandaQ240802.jar;md5;395fea455399bf720c4185264308ced0",
 			"api": "csp_Nongm"
 		}, {
