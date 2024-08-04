@@ -1,5 +1,5 @@
 {
-  "spider": "https://like.xn--z7x900a.com/jar/PandaQ240802.jar;md5;395fea455399bf720c4185264308ced0",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240802.jar;md5;395fea455399bf720c4185264308ced0",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "https://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
