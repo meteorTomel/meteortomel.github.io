@@ -43,7 +43,9 @@
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
-      "playerType": "2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
     {
@@ -96,6 +98,7 @@
       "key": "csp_Ikan",
       "name": "💕┃爱看┃影视",
       "searchable": 1,
+      "quickSearch": 1,
       "type": 3,
       "api": "csp_Ikan",
       "playerType": 1
@@ -159,14 +162,14 @@
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "ext": "http://api2.rinhome.com"
     },
     {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
@@ -177,7 +180,7 @@
       "key": "csp_AppRZ",
       "name": " 🕵┃忍者┃影视",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
@@ -203,7 +206,7 @@
       "key": "可可",
       "name": " 😝┃可可┃影视",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "api": "csp_Keke",
       "searchable": 1,
       "quickSearch": 1,
@@ -214,13 +217,13 @@
       "name": "🐤┃6V磁力┃影视",
       "type": 3,
       "api": "csp_Xb6v",
-      "playerType": "2"
+      "playerType": "1"
     },
     {
       "key": "低端",
       "name": "🛣┃低端┃影视",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
       "ext": "http://js.xn--z7x900a.com/js/ddys.js"
     },
