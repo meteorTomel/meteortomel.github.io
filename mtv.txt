@@ -95,6 +95,7 @@
     {
       "key": "csp_Ikan",
       "name": "💕┃爱看┃影视",
+      "searchable": 1,
       "type": 3,
       "api": "csp_Ikan",
       "playerType": 1
