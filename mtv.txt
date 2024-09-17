@@ -26,20 +26,6 @@
       "playerType": 2
     },
     {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://duopan.fun",
-          "http://labipan.com",
-          "https://mihdr.top"
-        ]
-      }
-    },
-    {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
@@ -122,25 +108,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "💌┃至臻┃影视",
-      "type": 3,
-      "api": "csp_Netfixtv",
-      "filterable": 1,
-      "ext": "http://mpanso.com"
-    },
-    {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "https://www.wogg.net"
     },
     {
       "key": "比特",
