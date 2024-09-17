@@ -71,6 +71,7 @@
       "key": "csp_SuBaiBai",
       "name": "🏳️┃素白┃影视",
       "type": 3,
+      "playerType": 2
       "api": "csp_SuBaiBai"
     },
     {
