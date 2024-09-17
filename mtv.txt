@@ -30,6 +30,7 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
+      "searchable": 1,
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
     {
