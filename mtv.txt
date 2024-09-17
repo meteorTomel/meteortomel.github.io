@@ -57,7 +57,7 @@
       "key": "csp_SuBaiBai",
       "name": "🏳️┃素白┃影视",
       "type": 3,
-      "playerType": 2
+      "playerType": 2,
       "api": "csp_SuBaiBai"
     },
     {
@@ -141,15 +141,6 @@
       "playerType": "2",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
-    },
-    {
-      "key": "FreeOK",
-      "name": "️️👌┃Fre┃影视",
-      "type": 3,
-      "api": "csp_FreeOK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "兄弟",
