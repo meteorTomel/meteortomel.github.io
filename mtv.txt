@@ -1,11 +1,11 @@
 {
-  "spider": "http://1.95.79.193/PandaQ241006.jar;md5;4352ec15dbd1601f601249f831c2e87c",
+  "spider": "http://1.95.79.193/PandaQ241016.jar;md5;a4a2fad654c06167fcaa4c37cb23ea3f",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "https://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🍥豆瓣(10.6更新肥猫接口)",
+      "name": "🍥豆瓣(10.17更新肥猫接口)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -26,12 +26,19 @@
       "playerType": 2
     },
     {
-      "key": "肥猫4K",
-      "name": "🖍┃肥猫┃4K",
+      "key": "csp_Duopan",
+      "name": "🖍︎┃蜡笔┃影视",
       "type": 3,
-      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js",
-      "ext": "http://js.xn--z7x900a.com/肥猫4K.js",
-      "searchable": 0
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://duopan.fun",
+          "http://labipan.com",
+          "https://mihdr.top",
+          "http://feimaoai.site"
+        ]
+      }
     },
     {
       "key": "csp_SuBaiBai",
@@ -91,10 +98,8 @@
     },
     {
       "key": "csp_Qiyou",
-      "name": "🍥┃奇优┃影视",
+      "name": "🥝┃奇优┃影视",
       "type": 3,
-      "playerType": 2,
-      "searchable": 1,
       "api": "csp_Qiyou"
     },
     {
