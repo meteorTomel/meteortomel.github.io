@@ -108,7 +108,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "1️⃣┃苹果┃影视",
+      "name": "🚀┃苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -120,14 +120,6 @@
       "name": "✌️️┃比特┃影视",
       "type": 3,
       "api": "csp_Bttwo"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
     },
     {
       "key": "厂长",
