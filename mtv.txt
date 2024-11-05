@@ -1,11 +1,11 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729617998198/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3",
+  "spider": "https://uccfile.im-cc.com/download/temp/20241105/PandaQ241105.txt;md5;8175ae9fb19e92f265dd8ee57a3bb7ae",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "https://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🍥豆瓣(10.25更新肥猫接口)",
+      "name": "🍥豆瓣(11.5更新肥猫接口)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -27,10 +27,11 @@
     },
     {
       "key": "csp_SuBaiBai",
-      "name": "🚀┃素白┃影视",
+      "name": "🏳️┃素白┃影视",
       "type": 3,
-      "api": "csp_SuBaiBai"
-    },
+      "api": "csp_SuBaiBai",
+      "ext":"http://subaibai.com"
+      },
     {
       "key": "csp_Jpyy",
       "name": "🥇️┃金牌┃影视",
@@ -45,21 +46,13 @@
     },
     {
       "key": "csp_Kanke",
-      "name": "🚀┃看客┃影视",
+      "name": "🛳️┃看客┃影视",
       "type": 3,
       "api": "csp_Kanke"
     },
     {
-      "key": "csp_Feifys",
-      "name": "🐒️┃狒狒┃影视",
-      "type": 3,
-      "api": "csp_Feifys",
-      "playerType":2,
-      "ext":"https://www.ffys.top"
-    },
-    {
       "key": "csp_Qiyou",
-      "name": "🚀┃奇优┃影视",
+      "name": "🥝┃奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou"
     },
@@ -108,7 +101,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🚀┃苹果┃影视",
+      "name": "🍎┃苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -120,6 +113,14 @@
       "name": "✌️️┃比特┃影视",
       "type": 3,
       "api": "csp_Bttwo"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
     },
     {
       "key": "厂长",
