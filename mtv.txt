@@ -1,11 +1,11 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730981039482/PandaQ241107.txt;md5;dabbadca4e437d296b69c3f7ebfc72f4",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731507309670/PandaQ24111302.txt;md5;a722b3fe7a3cd53bfbcf52e1ded33819",
 	"wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
 	"logo": "https://like.xn--z7x900a.com/panda/0262.png",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
-			"name": "🍥豆瓣(11.7更新肥猫接口)",
+			"name": "🍥豆瓣(11.15更新肥猫接口)",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
@@ -34,7 +34,7 @@
 		},
 		{
 			"key": "csp_Jpyy",
-			"name": "🥇金牌┃影视",
+			"name": "🥇️┃金牌┃影视",
 			"type": 3,
 			"api": "csp_Jpyy"
 		},
@@ -66,7 +66,7 @@
 		},
 		{
 			"key": "csp_Qiyou",
-			"name": "🥝奇优┃影视",
+			"name": "🥝┃奇优┃影视",
 			"type": 3,
 			"api": "csp_Qiyou"
 		},
@@ -182,7 +182,7 @@
 		},
 		{
 			"key": "csp_Dm84",
-			"name": "👱‍♂动漫┃巴士",
+			"name": "🤣┃动漫┃巴士",
 			"type": 3,
 			"playerType": "2",
 			"api": "csp_Dm84"
