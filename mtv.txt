@@ -1,11 +1,11 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731507309670/PandaQ24111302.txt;md5;a722b3fe7a3cd53bfbcf52e1ded33819",
-	"wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
-	"logo": "https://like.xn--z7x900a.com/panda/0262.png",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00",
+	"wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+	"logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
-			"name": "🍥豆瓣(11.15更新肥猫接口)",
+			"name": "🍥豆瓣(11.22更新肥猫接口)",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
@@ -46,11 +46,26 @@
 			"ext": "https://wwgz.cn"
 		},
 		{
-			"key": "csp_Nongm",
+			"key": "csp_AppRZ",
 			"name": "🕵️┃忍者┃影视",
 			"type": 3,
 			"api": "csp_AppRZ",
 			"ext": "http://rzys.xyz/"
+		},
+		{
+			"key": "csp_FeiMaoUC",
+			"name": "🐼┃肥猫┃UC",
+			"type": 3,
+			"api": "csp_Duopan",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://www.mucpan.cc",
+					"http://ucmi.fun",
+					"http://www.ucmi.fun"
+				],
+				"url_key": "FeiMaoUC"
+			}
 		},
 		{
 			"key": "csp_Nkdy",
@@ -65,10 +80,32 @@
 			"api": "csp_Kanke"
 		},
 		{
+			"key": "csp_Dadag",
+			"name": "🐢️┃达龟┃影视",
+			"type": 3,
+			"api": "csp_Dadag"
+		},
+		{
 			"key": "csp_Qiyou",
 			"name": "🥝┃奇优┃影视",
 			"type": 3,
-			"api": "csp_Qiyou"
+			"api": "csp_Qiyou",
+			"ext": "http://www.dyxz2.com/"
+		},
+		{
+			"key": "csp_Fantuan",
+			"name": "🍙┃饭团┃影视",
+			"type": 3,
+			"api": "csp_Fantuan",
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"ext": "https://www.fantuan.vip"
+		},
+		{
+			"key": "csp_Quanwk",
+			"name": "👀┃全看┃影视",
+			"type": 3,
+			"api": "csp_Quanwk",
+			"ext": "https://www.91qkw.com"
 		},
 		{
 			"key": "nangua",
@@ -76,13 +113,6 @@
 			"type": 3,
 			"playerType": "2",
 			"api": "http://js.xn--z7x900a.com/js/ng_open.js"
-		},
-		{
-			"key": "csp_Tvyb",
-			"name": "☁︎┃云播┃影视",
-			"type": 3,
-			"api": "csp_Tvyb",
-			"playerType": 2
 		},
 		{
 			"key": "csp_J",
@@ -145,7 +175,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://cz01.vip/"
+			"ext": "http://www.czzyvideo.com"
 		},
 		{
 			"key": "可可",
@@ -186,22 +216,6 @@
 			"type": 3,
 			"playerType": "2",
 			"api": "csp_Dm84"
-		},
-		{
-			"key": "csp_Anime1",
-			"name": "🐶┃日本┃动漫",
-			"type": 3,
-			"playerType": "2",
-			"api": "csp_Anime1"
-		},
-		{
-			"key": "csp_xifan",
-			"name": "🍚┃稀饭┃动漫",
-			"type": 3,
-			"api": "csp_Xifan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "push_agent",
