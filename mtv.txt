@@ -1,11 +1,11 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt;md5;db3a9c96dbe95ea534bdbd9b7244f015",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f",
   "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🍥豆瓣(01.02更新肥猫接口)",
+      "name": "🍥豆瓣(01.04更新肥猫接口)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -53,10 +53,22 @@
       "ext": "http://rzys.xyz/"
     },
     {
-      "key": "csp_Nkdy",
-      "name": "🏔️┃耐看┃影视",
+      "key": "csp_Lkdy",
+      "name": "🏔️┃来看┃影视",
       "type": 3,
-      "api": "csp_Nkdy"
+      "api": "csp_Lkdy"
+    },
+    {
+      "key": "csp_Lggys",
+      "name": "💗️┃攻阁┃影视",
+      "type": 3,
+      "api": "csp_Lggys"
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "☁️️┃云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb"
     },
     {
       "key": "csp_Kanke",
@@ -85,13 +97,6 @@
       "type": 3,
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
-    },
-    {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_NanGua"
     },
     {
       "key": "csp_J",
@@ -132,12 +137,6 @@
       "filterable": 1
     },
     {
-      "key": "比特",
-      "name": "✌️️┃比特┃影视",
-      "type": 3,
-      "api": "csp_Bttwo"
-    },
-    {
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
@@ -155,24 +154,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.czzyvideo.com"
-    },
-    {
-      "key": "可可",
-      "name": " 😝┃可可┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kkys02.com"
-    },
-    {
-      "key": "csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "playerType": "2"
     },
     {
       "key": "push_agent",
