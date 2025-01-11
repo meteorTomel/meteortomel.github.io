@@ -56,7 +56,8 @@
       "key": "csp_Lkdy",
       "name": "🏔️┃来看┃影视",
       "type": 3,
-      "api": "csp_Lkdy"
+      "api": "csp_Lkdy",
+      "searchable": 1
     },
     {
       "key": "csp_Lggys",
